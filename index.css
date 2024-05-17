@@ -1167,7 +1167,7 @@ z-index: 100;
 
 .imk1{
     top: 18.5vh;
-    left:50vw;
+    left:58vw;
 position: relative;
 
 /* animation: glowing1 2s infinite alternate; */
@@ -1177,7 +1177,7 @@ position: relative;
 
 .imk2{
     top: 33vh;
-    left: 66vw;
+    left: 74vw;
 position: relative;
 
 /* animation: glowing1 2s infinite alternate; */
@@ -1187,7 +1187,7 @@ position: relative;
 
 .imk3{
     top: 55vh;
-    left: 7.5vw;
+    left: 10.5vw;
 position: relative;
 
 /* animation: glowing1 2s infinite alternate; */
@@ -1196,7 +1196,7 @@ position: relative;
 
 .imk4{
     top: 58vh;
-    left: 27vw;
+    left: 34vw;
 position: relative;
 
 /* animation: glowing1 2s infinite alternate; */
@@ -1216,8 +1216,8 @@ position: relative;
 
 
 .imk6{
-    top: 107vh;
-    left: 3vw;
+    top: 108vh;
+    left: -2vw;
 position: relative;
 
 /* animation: glowing1 2s infinite alternate; */
@@ -1227,7 +1227,7 @@ position: relative;
 
 .imk7{
     top: 116vh;
-    left: -23.5vw;
+    left: -38vw;
 position: relative;
 
 /* animation: glowing1 2s infinite alternate; */
@@ -1236,8 +1236,8 @@ position: relative;
 
 
 .imk8{
-    top: 136vh;
-    left: -1.5vw;
+    top: 138vh;
+    left: -22.5vw;
 position: relative;
 
 /* animation: glowing1 2s infinite alternate; */
@@ -1248,7 +1248,7 @@ position: relative;
 
 .imk9{
     top: 154vh;
-    left: -39vw;
+    left: -65.5vw;
 position: relative;
 
 /* animation: glowing1 2s infinite alternate; */
