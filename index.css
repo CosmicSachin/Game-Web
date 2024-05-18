@@ -1864,20 +1864,19 @@ outline-offset: 3px;
 
 
 .foot{
-   background-image: radial-gradient(rgba(0, 0, 0, 0.352), rgba(0, 0, 0, 0.505), rgba(0, 0, 0, 0.84)), url(blt.jpeg);
+   background-image: radial-gradient(rgba(0, 0, 0, 0.633), rgba(0, 0, 0, 0.71), rgba(0, 0, 0, 0.841)), url(blt.jpeg);
    /* background-color: #0077ff; */
     display: flex;
-    height: 50vh;
+    height: 55vh;
     z-index: 115;
     position: relative;
     background-size: cover;
     margin-top: -20vh;
     background-position: center;
-    border-top: 5px solid gold;
-    /* margin-bottom: -10vh; */
+    border-top: 5px solid #ffffff;
+    align-items: center;
     bottom: -5vh;
-    /* opacity: 30%; */
-    /* justify-content: center; */
+ gap: 1vh;
     flex-direction: column;
 }
 
@@ -1885,16 +1884,20 @@ outline-offset: 3px;
     display: flex;
     position: relative;
 align-items: center;
-justify-content: center;
 flex-direction: row;
 margin-top: 12vh;
 gap: 8vw;
 }
 
 .ft1{display: flex;
-align-items: center;
-justify-content: center;
+    /* justify-content: center; */
+    align-items: center;
 gap: 3vw;
+}
+
+.ft2{display: flex;
+    gap: 1vw;
+
 }
 
 
@@ -1904,7 +1907,8 @@ gap: 3vw;
 
 .icon1 ul {
     display: flex;
-    gap: 20px;
+    gap: 15px;
+    align-items: center;
 }
 
 .icon1 li {
@@ -1915,7 +1919,7 @@ gap: 3vw;
 
 
 .icon1 img {
-    height: 3vw;
+    /* height: 3vw; */
     display: inline;
     transition: .3s ease-in-out;
 
@@ -1924,6 +1928,20 @@ gap: 3vw;
 
 .icon1 img:active {
     scale: .95;
+}
+
+
+
+.txt{
+    display: flex;
+    flex-direction: column;
+    gap: 3vh;
+    color: rgb(193, 193, 193);
+    padding: 5vh 23vw;
+    text-align: center;
+  font-family: "Roboto Serif", serif;
+    font-size: 20px;
+    line-height: 4vh;
 }
 
 
