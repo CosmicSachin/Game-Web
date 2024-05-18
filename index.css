@@ -4,7 +4,6 @@
     box-sizing: border-box;
 
 
-    font-family: 'Josefin Sans', sans-serif;
 
 }
 
@@ -15,8 +14,11 @@ html {
     cursor: default;
     scroll-behavior: smooth;
     overflow-y: scroll;
+    font-family: 'Josefin Sans', sans-serif;
     
 }
+
+
 
 
 ::-webkit-scrollbar {
@@ -827,6 +829,7 @@ border-bottom: 5px solid rgb(194, 139, 0);
     position: relative;
     color: rgb(183, 236, 255);
     text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
 
     border: 4px solid #00b7ffbc;
     background: rgba(0, 183, 255, 0);
@@ -894,11 +897,7 @@ margin-top: -25vh;
 }
 
 
-/* .page{    
-    animation: glowing1 3s infinite alternate;
-z-index: 10;
 
-} */
 
 
 .page4{
@@ -907,11 +906,6 @@ margin-top: 0vh;
 }
 
 
-    
-      /* .page1 img{
-       height:100%;
-        width: 100%;
-      } */
 
       .page5 img{
         height:100%;
@@ -921,11 +915,6 @@ margin-top: 0vh;
         position: relative;
         left: -50%;
       }
-
-
-
-
-
 
 
 
@@ -952,16 +941,6 @@ margin-top: 0vh;
 
 
 
-
-
-
-
-
-
-
-
-
-      
 
       .page7 img{
         height:100%;
@@ -1095,7 +1074,6 @@ font-size: 20vh;}
     }
 
 
-/* .bow{filter:brightness(120%);} */
 
 
 .dre{
@@ -1533,6 +1511,8 @@ z-index: 0;
 }
 
 .vd3 {
+    font-family: 'Josefin Sans', sans-serif;
+
     font-size: 1.5vw;
     font-weight: lighter;
     height: 9vh;
@@ -1654,10 +1634,6 @@ z-index: 15;
 }
 
 
-.h2::before{
-    
-}
-
 
 
 
@@ -1764,6 +1740,7 @@ filter: brightness(130%);
 
 .rlwd {
     font-size: 1.5vw;
+    font-family: 'Josefin Sans', sans-serif;
   
     height: 9vh;
     width: 20vw;
@@ -1843,6 +1820,7 @@ font-size: 5vh;
 .dln{
     font-size: 2.5vh;
     background-color: white;
+    font-family: 'Josefin Sans', sans-serif;
     width: 10vw;
     height: 6vh;
     border-radius: 20px;
