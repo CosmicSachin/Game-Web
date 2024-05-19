@@ -168,8 +168,9 @@ document.addEventListener("DOMContentLoaded", function() {
                                    trigger:".page5",
                                    scroller:"body",
                                 //    markers:true,
-                                   start:"top -100%",
-                                   end:"top 100%",
+                                start:"top 0%",
+
+                                   end:"top 50%",
                                    scrub: 2,
                              pin:true
                                    }
@@ -184,7 +185,8 @@ document.addEventListener("DOMContentLoaded", function() {
                                             trigger:".page7",
                                             scroller:"body",
                                             // markers:true,
-                                            start:"top -100%",
+                                            start:"top 0%",
+
                                             end:"top 100%",
                                             scrub: 2,
                                       pin:true
