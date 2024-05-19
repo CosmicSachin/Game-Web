@@ -1852,6 +1852,7 @@ outline-offset: 3px;
     background-position: center;
     border-top: 5px solid #ffffff;
     align-items: center;
+    justify-content: center;
     bottom: -5vh;
     flex-direction: column;
 }
@@ -1859,6 +1860,7 @@ outline-offset: 3px;
 .ft{
     display: flex;
     position: relative;
+    justify-content: center;
 align-items: center;
 flex-direction: row;
 margin-top: 15vh;
