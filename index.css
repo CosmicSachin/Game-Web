@@ -484,7 +484,7 @@ mix-blend-mode: screen;
     width: 30vw;
     margin-left: 40vw;
     /* animation: shine7 5s infinite alternate; */
-    filter: brightness(120%);
+    filter: brightness(160%);
 
 }
 
@@ -851,8 +851,8 @@ align-items: center;
 z-index: 50;
 
 /* background-image:radial-gradient( #00000000, #00000097,#000000) ,url(bm.jpg); */
-/* background-image:radial-gradient( #00eaff00, #00000080,#000000) ,url(bm.jpg); */
-background-image:radial-gradient( #000000dd, #000000b6,#000000) ,url(bbg.jpg);
+background-image:radial-gradient( #00eaff00, #00000080,#000000) ,url(bm.jpg);
+/* background-image:radial-gradient( #000000dd, #000000c8,#000000) ,url(bbg.jpg); */
 
 background-size: cover;
 background-position:center center;
