@@ -1316,8 +1316,9 @@ color: rgb(46, 29, 0);}
     position: relative;
     z-index: 20;
 /* background-image: radial-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0)), url(bbg.jpg); */
-background-image:radial-gradient( #000000dd, #000000b6,#000000) ,url(bbg.jpg);
-/* background-image:radial-gradient( #000a245b, #000a2480,#000000) ,url(bm.jpg); */
+background-image:radial-gradient( #000a2442, #000a2494,#000000) ,url(bm.jpg);
+background-image:radial-gradient( #00eaff00, #00000080,#000000) ,url(bm.jpg);
+
 
 height: 250vh;
 width: auto;
