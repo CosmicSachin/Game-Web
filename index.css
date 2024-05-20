@@ -484,7 +484,7 @@ mix-blend-mode: screen;
     width: 30vw;
     margin-left: 40vw;
     /* animation: shine7 5s infinite alternate; */
-    filter: brightness(160%);
+    filter: brightness(140%);
 
 }
 
