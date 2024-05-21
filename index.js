@@ -168,7 +168,7 @@ gsap.to(".page5 img", {
         trigger: ".page5",
         scroller: "body",
         //    markers:true,
-        start: "top -50%",
+        start: "top -100%",
 
         end: "top 50%",
         scrub: 2,
@@ -185,7 +185,7 @@ gsap.to(".page7 img", {
         trigger: ".page7",
         scroller: "body",
         // markers:true,
-        start: "top -50%",
+        start: "top -100%",
 
         end: "top 100%",
         scrub: 2,
